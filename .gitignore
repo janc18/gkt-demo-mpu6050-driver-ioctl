@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.cache/
+*.glade~
 # Object files
 *.o
 *.ko
